@@ -1,0 +1,8 @@
+{
+  "performers": [
+    { "id": 1, "name": "Prljavo kazalište" },
+    { "id": 2, "name": "Hladno pivo" },
+    { "id": 3, "name": "Urban" },
+    { "id": 4, "name": "Gibboni" }
+  ]
+}
